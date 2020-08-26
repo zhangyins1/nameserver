@@ -1,0 +1,3 @@
+/home/zhangyin/nameserver/CMakeFiles/rebuild_cache.dir
+/home/zhangyin/nameserver/CMakeFiles/nameserver.dir
+/home/zhangyin/nameserver/CMakeFiles/edit_cache.dir
